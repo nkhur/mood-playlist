@@ -1,3 +1,4 @@
 # mood-playlist
 
-![https://www.figma.com/design/kWaXDJbjaw2VuiBoZdEBmg/Untitled?node-id=0-1&t=lYsiAzSPV7HZXxnb-1]Figma
+<a href="https://readme.com/](https://www.figma.com/design/kWaXDJbjaw2VuiBoZdEBmg/Untitled?node-id=0-1&t=lYsiAzSPV7HZXxnb-1)" target="_blank">Figma</a>
+
