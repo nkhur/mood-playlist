@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,5 +14,10 @@
   "homepage": "https://github.com/nkhur/mood-playlist#readme",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "dotenv": "^16.4.7",
+    "request": "^2.88.2"
+  }
 }
